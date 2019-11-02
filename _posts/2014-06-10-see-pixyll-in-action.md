@@ -92,7 +92,11 @@ This allows your content to have the proper informational and contextual hierarc
 
 ![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
 
-_![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_
+{:.center}
+![cardinal](/images/me.jpeg){:height="200%" width="200%"}  
+This is an image
+
+![image](/images/me.jpeg) 
 
 
 ### There are also pretty colors
