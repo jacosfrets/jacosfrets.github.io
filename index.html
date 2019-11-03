@@ -3,6 +3,12 @@ layout: default
 ---
 {% assign posts_count = paginator.posts | size %}
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
 <div class="home">
   {% if posts_count > 0 %}
     <div class="posts">
@@ -22,6 +28,10 @@ layout: default
             {% else %}
               {{ post.excerpt }}
             {% endif %}
+            <p class="aligncenter"> <br>
+              <p> </p>
+              <img src={{ post.image }} alt=""/>
+            </p>
           </span>
         </div>
       {% endfor %}

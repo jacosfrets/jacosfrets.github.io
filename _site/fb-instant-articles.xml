@@ -9,259 +9,59 @@
     
         
             <item>
-                <title>Pixyll in Action</title>
-                <link>http://localhost:4000/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</link>
+                <title>This is a Tree</title>
+                <link>http://localhost:4000/jekyll/pixyll/2019/06/12/This_is_a_Tree/</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
-that your content is emphasized while still looking aesthetically pleasing.</p>
+                    <h2 id="the-tfl-is-fucked">The TFL is Fucked</h2>
 
-<p>All links are easy to <a href="#">locate and discern</a>, yet don’t detract from the <a href="#">harmony
-of a paragraph</a>. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
-works if <del>for some reason you need to update your post</del>. For consistency’s sake,
-<ins>The same goes for insertions</ins>, of course.</p>
+<p>The TFL’s in British Columbia are huge. Theyre visible from space. The perception of “Beautiful” British Columbia as the “super-natural” and “wild” west can be crushed in 5 minutes by <a href="https://www.google.com/maps/@51.1738009,-120.4759646,60876m/data=!3m1!1e3">viewing the checkered remains of the last temperate rainforest on the planet on google maps.</a></p>
 
-<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Needless to say, the two days it takes to plant a single piece of a block on a small TFL are a pitance in comparison to the work which would need to be done to heal the province.</p>
 
-<p>Here’s an example of some ruby code with line anchors.</p>
+<p>Loosely regulated logging is bad. There arent many conditions that dictate how a company logs their TFL, but luckily, one of them is that a forest must be replanted to some extent after its killed. My friend Rylee and I were assigned to plant the piece of the block that contained Dougy, and that is how this picture came to be.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1"># The most awesome of classes</span>
-<span class="k">class</span> <span class="nc">Awesome</span> <span class="o">&lt;</span> <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Base</span>
-  <span class="kp">include</span> <span class="no">EvenMoreAwesome</span>
+<h2 id="stuck-in-your-own-head">Stuck in Your Own Head</h2>
 
-  <span class="n">validates_presence_of</span> <span class="ss">:something</span>
-  <span class="n">validates</span> <span class="ss">:email</span><span class="p">,</span> <span class="ss">email_format: </span><span class="kp">true</span>
+<p>Rylee and I didnt quite see eye-to-eye on those two days. We hadn’t planted together before, and from what I remember, there was some drama going on in camp which sharpened our tempers somewhat. So after planting the boundary together, we ended up on opposite ends of the piece. I drifted towards Dougys end. Until we were done the piece, we were separated by two house sized piles of debris which West Fraser left behind after they were done raping Dougys neighbours.</p>
 
-  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="n">email</span><span class="p">,</span> <span class="nb">name</span> <span class="o">=</span> <span class="kp">nil</span><span class="p">)</span>
-    <span class="nb">self</span><span class="p">.</span><span class="nf">email</span> <span class="o">=</span> <span class="n">email</span>
-    <span class="nb">self</span><span class="p">.</span><span class="nf">name</span> <span class="o">=</span> <span class="nb">name</span>
-    <span class="nb">self</span><span class="p">.</span><span class="nf">favorite_number</span> <span class="o">=</span> <span class="mi">12</span>
-    <span class="nb">puts</span> <span class="s1">'created awesomeness'</span>
-  <span class="k">end</span>
+<p>If you want to make money planting, you cant get lost in your own head. You have to stay focused. You have to keep up with the clock and your own expectations. This wasnt a money day though, and walking circles around Dougy had me thinking the whole time.</p>
 
-  <span class="k">def</span> <span class="nf">email_format</span>
-    <span class="n">email</span> <span class="o">=~</span> <span class="sr">/\S+@\S+\.\S+/</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre></figure>
+<p>What would it be like to be Dougy?</p>
 
-<p>Here’s some CSS:</p>
+<p>Well, Dougy would see that what was left of (their?) home would look “more like the battle of Passchendaele” than a forest as Stuart Maclean put it. They would see the scarred expanse of slashed limbs a meter high over a dried-up bed of redrot. Out to the horizon, patches of old stands of trees like Dougy wouldn’t stick out easier if they were shoved onto the surface of Mars. Some of this battleground is green with uniformly spread lines of human-sized Pine trees. Other parts, like the land behind me, is covered in baby Spruce saplings and bright blue non-degradable plastic flagger.</p>
 
-<figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="nc">.foobar</span> <span class="p">{</span>
-  <span class="c">/* Named colors rule */</span>
-  <span class="nl">color</span><span class="p">:</span> <span class="no">tomato</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
+<h2 id="somethings-gotta-give">Somethings Gotta Give</h2>
 
-<p>Here’s some JavaScript:</p>
+<p>The tree-hugger image of planters isn’t accurate. We are farmers working the city-sized fields of West Fraser and Canfor. Were the “hands”, to use a synectoche, of a child that has greedily devoured some chocolate it stole from the cupboard and has been told to clean up their mess. The forest can restore itself with the help of planters, but as things stand, or rather fall, the trees that Rylee and I planted will also be cut down in a matter of 80 years.</p>
 
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="kd">var</span> <span class="nx">isPresent</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">is-present</span><span class="dl">'</span><span class="p">)</span>
+<p>However, there is a change coming.</p>
 
-<span class="nx">module</span><span class="p">.</span><span class="nx">exports</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">doStuff</span><span class="p">(</span><span class="nx">things</span><span class="p">)</span> <span class="p">{</span>
-  <span class="k">if</span> <span class="p">(</span><span class="nx">isPresent</span><span class="p">(</span><span class="nx">things</span><span class="p">))</span> <span class="p">{</span>
-    <span class="nx">doOtherStuff</span><span class="p">(</span><span class="nx">things</span><span class="p">)</span>
-  <span class="p">}</span>
-<span class="p">}</span></code></pre></figure>
+<p>People have realized that forests are as important as our lungs. In the same way that smoking gives you cancer, unsustainable logging practices will also kill us. This analogy is extremely appropriate; consider how Brazil is burning the amazon. There exist methods of logging just as there exist solutions to many ecological dilemna which can allow human beings to co-exist with the rest of the planet.</p>
 
-<p>Here’s some HTML:</p>
+<p>In terms of logging in particular, leaving more retention on a block when cutting out trees will not entirely kill ecosystems. Logging companies in turn wont have to pay for planters to return to fill-plant as often since saplings would be better protected. The summers are getting hotter, and sapling mortality rate is increasing. The idea of TFL’s is a hundred years old. Its time to enforce new logging regulation.</p>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"m0 p0 bg-blue white"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;h3</span> <span class="na">class=</span><span class="s">"h1"</span><span class="nt">&gt;</span>Hello, world!<span class="nt">&lt;/h3&gt;</span>
-<span class="nt">&lt;/div&gt;</span></code></pre></figure>
+<h2 id="the-big-picture">The Big Picture</h2>
 
-<h1 id="headings">Headings!</h1>
+<p>Now, I do seriously mean that I was walking circles around Dougy all day. I hadnt noticed while these thoughts drifted through my head that I had planted Rylee into the slashiest hell-hole from here to kingdom come. That justifyably earned me a “what the fuck are you doing?” from my foreman. I now have the prestigious Jamie award for “waviest lines”. Rylee and I finished the season laughing. I thoroughly enjoyed the next block that I partner planted with her. We have many fun planting adventures to look forward to.</p>
 
-<p>They’re responsive, and well-proportioned (in <code class="highlighter-rouge">padding</code>, <code class="highlighter-rouge">line-height</code>, <code class="highlighter-rouge">margin</code>, and <code class="highlighter-rouge">font-size</code>).
-They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<p>At the end of the day, I folded up some K&amp;C boxes and pulled out my block Pentax. It was hard to get Dougy into the frame, but thats a good thing. Nature shouldnt bow to us so that we can get symmetric selfies and conformed images of landscapes. The image is formatted so that you cannot fit it on your screen for this reason.</p>
 
-<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>I believe that crudeness present in natural photography reflects a real relationship with the subject. I hope that my relationship with Dougy is manifested in that way here.</p>
 
-<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<p>Most natural photography today is comical; what are effectively shots of zoos, or hyper-edited photos that force a subject to take an unnatural form crowd vapid <a href="https://www.instagram.com/nature/">instagrams</a>. Dougy is not perfect, and neither is this image. It is this imperfection though, that has granted Dougy their life. If it weren’t for a fork in their trunk towards the top, West Fraser would have cut them down with all their friends.</p>
 
-<h3 id="there-are-lists-too">There are lists, too</h3>
-
-<ul>
-  <li>Apples</li>
-  <li>Oranges</li>
-  <li>Potatoes</li>
-  <li>Milk</li>
-</ul>
-
-<ol>
-  <li>Mow the lawn</li>
-  <li>Feed the dog</li>
-  <li>Dance</li>
-</ol>
-
-<h3 id="images-look-great-too">Images look great, too</h3>
-
-<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk" /></p>
-
-<p class="center"><img src="/images/me.jpeg" alt="cardinal" height="200%" width="200%" /><br />
-This is an image</p>
-
-<p><img src="/images/me.jpeg" alt="image" /></p>
-
-<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
-
-<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
-of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
-
-<p>I don’t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
-
-<h3 id="footnotes">Footnotes!</h3>
-
-<p>Markdown footnotes are supported, and they look great! Simply put e.g. <code class="highlighter-rouge">[^1]</code> where you want the footnote to appear,<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> and then add
-the reference at the end of your markdown.</p>
-
-<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
-
-<p>You can use the markdown quote syntax, <code class="highlighter-rouge">&gt;</code> for simple quotes.</p>
-
-<blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
-</blockquote>
-
-<p>However, you need to inject html if you’d like a citation footer. I will be working on a way to
-hopefully sidestep this inconvenience.</p>
-
-<blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
-
-<h3 id="tables">Tables</h3>
-
-<p>Tables represent tabular data and can be built using markdown syntax.  They are rendered responsively in Pixyll for a variety of screen widths.</p>
-
-<p>Here’s a simple example of a table:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Quantity</th>
-      <th>Description</th>
-      <th style="text-align: right">Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2</td>
-      <td>Orange</td>
-      <td style="text-align: right">$0.99</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>Pineapple</td>
-      <td style="text-align: right">$2.99</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Banana</td>
-      <td style="text-align: right">$0.39</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td> </td>
-      <td><strong>Total</strong></td>
-      <td style="text-align: right"><strong>$6.14</strong></td>
-    </tr>
-  </tfoot>
-</table>
-
-<p>A table must have a body of one or more rows, but can optionally also have a header or footer.</p>
-
-<p>The cells in a column, including the header row cell, can either be aligned:</p>
-
-<ul>
-  <li>left,</li>
-  <li>right or</li>
-  <li>center.</li>
-</ul>
-
-<p>Most inline text formatting is available in table cells, block-level formatting are not.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Default header</th>
-      <th style="text-align: left">Left header</th>
-      <th style="text-align: center">Center header</th>
-      <th style="text-align: right">Right header</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Default</td>
-      <td style="text-align: left">Left</td>
-      <td style="text-align: center">Center</td>
-      <td style="text-align: right">Right</td>
-    </tr>
-    <tr>
-      <td><em>Italic</em></td>
-      <td style="text-align: left"><strong>Bold</strong></td>
-      <td style="text-align: center"><strong><em>Bold italic</em></strong></td>
-      <td style="text-align: right"><code class="highlighter-rouge">monospace</code></td>
-    </tr>
-    <tr>
-      <td><a href="#">link text</a></td>
-      <td style="text-align: left"><code class="highlighter-rouge">code</code></td>
-      <td style="text-align: center"><del>Strikeout</del></td>
-      <td style="text-align: right"><ins>Insertion<ins></ins></ins></td>
-    </tr>
-    <tr>
-      <td>line<br />break</td>
-      <td style="text-align: left">“Smart quotes”</td>
-      <td style="text-align: center"><mark>highlight</mark></td>
-      <td style="text-align: right"><span class="green">green</span></td>
-    </tr>
-    <tr>
-      <td>Footnote<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></td>
-      <td style="text-align: left"><sub>subscript</sub></td>
-      <td style="text-align: center"><sup>superscript</sup></td>
-      <td style="text-align: right"><span class="red">red</span></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer row</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: right"> </td>
-    </tr>
-  </tfoot>
-</table>
-
-<h3 id="theres-more-being-added-all-the-time">There’s more being added all the time</h3>
-
-<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
-or add, features.</p>
-
-<p>Happy writing.</p>
-
-<hr />
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Important information that may distract from the main text can go in footnotes. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>Footnotes will work in tables since they’re just links. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<p>I left Dougy surrounded with new friends, and if we are willing to let them have it, I left them with a future as well.</p>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</guid>
+                <guid isPermaLink="false">/jekyll/pixyll/2019/06/12/This_is_a_Tree/</guid>
                 <description>
                     
-                    See what the different elements looks like. Your markdown has never looked better. I promise.
+                    A good amount of the oxygen currently in your lungs was created by Douglas Fir trees. They are crucial to life on Earth. This Dougy is alone though, because it lives on TFL35 (Tree Farm License).
                     
                 </description>
-                <pubDate>Tue, 10 Jun 2014 05:31:19 -0700</pubDate>
+                <pubDate>Wed, 12 Jun 2019 21:51:29 -0700</pubDate>
                 <author>jacosfrets</author>
             </item>
         
