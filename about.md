@@ -19,8 +19,6 @@ Everything on this website is open source and easy to access. If you like a pict
 
 I don't mean to be hyperbolic, but there is a reason why I have gone to great lengths to present my pictures this way instead of posting them on instagram. I have a personal connection with them, and I feel their stories should be told if they are to be made public.
 
-I will contact someone if I plan to put a picture of them on this blog. Technically in Canada one has the right to record and photograph anyone in a public place without their consent but I know better than to collect on this. The most exciting things happen in private places anyhow ;)
-
 A sharp eye will be able to tell that the pictures aren't professionally scanned. I'm working on this.
 
 ## Analytics and Data Collection
